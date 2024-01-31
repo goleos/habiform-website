@@ -2,6 +2,6 @@
 
 Choose a page you would like to go to:
 
-- [Support page](support%20page)
-- [Privacy policy](privacy%20policy)
-- [Terms and Conditions](terms%20and%20conditions)
+- [Support page](https://goleos.github.io/habiform-website/support%20page)
+- [Privacy policy](https://goleos.github.io/habiform-website/privacy%20policy)
+- [Terms and Conditions](https://goleos.github.io/habiform-website/terms%20and%20conditions)
