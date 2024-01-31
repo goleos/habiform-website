@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For using the app you might need to provide information about your habits which may also include personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The data you input into the app (your habits, trigger events and any other data you may provide) is stored locally on your device, and I do not have the ability to access it unless you send it directly to me, for example, via email.
 
-I do not have the ability and any interest in collecting your data. The data associated with the functionality of the app (habits, triggers etc.) stay on your device and is not transmitted over the internet. However, the app does use third-party services that may collect information used to identify you.
+The data associated with the functionality of the app (habits, triggers etc.) stays on your device and is not transmitted over the internet. However, the app does use third-party services that may collect information used to identify you.
 
 Link to the privacy policy of third-party service providers used by the app
 
